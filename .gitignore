@@ -1,8 +1,9 @@
 # Security
 config/api_config.js
+config/exclude_list.js
 
 # Bot specific outputs
-niconico-offset.last
+niconico.offset
 
 # Logs
 logs
