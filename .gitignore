@@ -2,8 +2,8 @@
 config/config_pixiv.js
 config/config_twitter.js
 
-# Package lock
-package-lock.json
+# Bot specific outputs
+niconico-offset.last
 
 # Logs
 logs
@@ -81,6 +81,3 @@ typings/
 
 # FuseBox cache
 .fusebox/
-
-# Bot specific outputs
-niconico-offset.last
