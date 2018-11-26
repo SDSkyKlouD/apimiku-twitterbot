@@ -1,0 +1,24 @@
+{
+  "name": "apimiku-twitterbot",
+  "version": "0.1.0",
+  "description": "A server-side Twitter bot sharing the works of Appearance Miku",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/SDSkyKlouD/apimiku-twitterbot.git"
+  },
+  "author": "SD SkyKlouD",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://gitlab.com/SDSkyKlouD/apimiku-twitterbot/issues"
+  },
+  "homepage": "https://gitlab.com/SDSkyKlouD/apimiku-twitterbot#readme",
+  "dependencies": {
+    "node-pixiv": "^0.1.1",
+    "sugoi-search": "^1.2.0",
+    "twit": "^2.2.11"
+  }
+}
