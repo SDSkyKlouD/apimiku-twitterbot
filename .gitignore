@@ -1,6 +1,5 @@
 # Security
-config/config_pixiv.js
-config/config_twitter.js
+config/api_config.js
 
 # Bot specific outputs
 niconico-offset.last
