@@ -20,11 +20,11 @@ Easy and stay cool, bro. Let's take a simple but awesome journey.
 ### Clone this repository
 Let's give Appearance Miku a comfortable house!
 
-  1. Install `git` if you haven't installed before.
-	`$ sudo apt-get install git` on Ubuntu/Debian
+  1. Install `git` if you haven't installed before.  
+	`$ sudo apt-get install git` on Ubuntu/Debian  
 	`# yum install git` on CentOS/Fedora
 
-  2. Now clone this repository using following command :
+  2. Now clone this repository using following command :  
 	`$ git clone https://gitlab.com/SDSkyKlouD/apimiku-twitterbot.git`
       > To reduce storage space consumption, add `--depth 1` option at the end of the command.
 
