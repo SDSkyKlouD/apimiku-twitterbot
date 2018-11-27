@@ -6,7 +6,7 @@ Hmm. What's the deal?
 ---
 **Appearance Miku** is one of MMD models based on [**Hatsune Miku**](https://www.crypton.co.jp/cv01), and you ~~should~~ must know Appearance Miku is *kawaii-est* MMD model ever.  
 You can see some nice pictures(illustrations) or video works on [pixiv](https://www.pixiv.net/search.php?s_mode=s_tag&word=あぴミク), [Niconico Video](https://www.nicovideo.jp/search/あぴミク), [Niconico Illust](http://seiga.nicovideo.jp/search/あぴミク), and somewhere more! ~~ignore R-18 and NSFW works, yay.~~  
-... Okay, you're back here. First, I'm not responsible even if you \*addicted\* to her. Second, if you so, then why don't you follow [up and running bot on Twitter](https://twitter.com/AppearanceMiku)? This bot will make your life more *ApiMiku-ful*, absolutely and without a doubt!  
+... Okay, you're back here. First, I'm not responsible even if you \*addicted\* to her. Second, if you so, then why don't you follow [up and running bot on Twitter](https://twitter.com/AppearanceMiku)? This bot will make your life more *ApiMiku-ful*, absolutely and without a doubt!
 
 Tell me how can I run this anyway ;(
 ---
@@ -74,6 +74,18 @@ If you feel everything went correctly, then why don't you hug our girl XD
 
 <small>~~??? : SIMPLE? HUH.~~</small>
 
+### Extra : Cron, cron, cron!
+You can let Appearance Miku to do work periodically by setting a cronjob. Below is an example of cronjob(crontab) setting.
+
+```bash
+# min hour dom mon dow command
+  0   */2  *   *   *   node <path-to-cloned-repository>/bot.js
+```
+
+This will run the bot script every two hours.  
+※ **NOTE** that this crontab setting will not work on some systems.
+※ **NOTE** that this script DOESN'T REQUIRE administrator permission because our Appearance Miku doesn't need any help from master to do this. Please edit crontab with `$ crontab -e`, not `$ sudo crontab -e` or `# crontab -e`.
+
 Conclusion?
 ---
 I like Appearance Miku. uwu
@@ -91,3 +103,6 @@ Copyright?
 ---
 Copy<small>~~right~~</small>left 🄯 2018 [SD SkyKlouD](https://twitter.com/_SDSkyKlouD)  
 Coded with 💖, README made with 🍸
+
+Appearance Miku, あぴミク ⓒ ままま, ANGEL Project  
+Hatsune Miku, 初音ミク ⓒ Crypton Future Media, Inc.
