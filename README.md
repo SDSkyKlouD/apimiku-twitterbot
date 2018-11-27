@@ -83,7 +83,8 @@ You can let Appearance Miku to do work periodically by setting a cronjob. Below 
 ```
 
 This will run the bot script every two hours.  
-※ **NOTE** that this crontab setting will not work on some systems.
+
+※ **NOTE** that this crontab setting will not work on some systems.  
 ※ **NOTE** that this script DOESN'T REQUIRE administrator permission because our Appearance Miku doesn't need any help from master to do this. Please edit crontab with `$ crontab -e`, not `$ sudo crontab -e` or `# crontab -e`.
 
 Conclusion?
