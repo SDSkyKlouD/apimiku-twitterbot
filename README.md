@@ -1,5 +1,6 @@
 apimiku-twitterbot
 ===
+**The project is not maintained anymore. Here will be no new features or improvements.**
 A [Node.js](https://nodejs.org) based Twitter bot sharing the works like illustrations and videos of [Appearance Miku](https://piapro.jp/t/KPU3)!
 
 Hmm. What's the deal?
