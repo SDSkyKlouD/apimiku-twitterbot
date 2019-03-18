@@ -7,7 +7,7 @@ Hmm. What's the deal?
 ---
 **Appearance Miku** is one of MMD models based on [**Hatsune Miku**](https://www.crypton.co.jp/cv01), and you ~~should~~ must know Appearance Miku is *kawaii-est* MMD model ever.  
 You can see some nice pictures(illustrations) or video works on [pixiv](https://www.pixiv.net/search.php?s_mode=s_tag&word=あぴミク), [Niconico Video](https://www.nicovideo.jp/search/あぴミク), [Niconico Illust](http://seiga.nicovideo.jp/search/あぴミク), and somewhere more! ~~ignore R-18 and NSFW works, yay.~~  
-... Okay, you're back here. First, I'm not responsible even if you \*addicted\* to her. Second, if you so, then why don't you follow [up and running bot on Twitter](https://twitter.com/AppearanceMiku)? This bot will make your life more *ApiMiku-ful*, absolutely and without a doubt!
+... Okay, you're back here. I'm not responsible even if you \*addicted\* to her. :)
 
 Tell me how can I run this anyway ;(
 ---
